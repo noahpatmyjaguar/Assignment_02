@@ -1,5 +1,5 @@
 #Exercise1
-
+#CODE DONE BY MARIA MIHALKA
 # Part 1
 #my favorite tea
 tea = 'spearmint'
