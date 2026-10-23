@@ -1,4 +1,4 @@
-
+#CODE DONE BY MARIA MIHALKA
 #Exercise2
 
 #Part1
